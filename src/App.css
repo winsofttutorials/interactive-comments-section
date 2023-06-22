@@ -17,3 +17,8 @@
   --Very-light-gray: hsl(228, 33%, 97%);
   --White: hsl(0, 0%, 100%);
 }
+
+.casing {
+  background-color: var(--Very-light-gray);
+  min-height: 100vh;
+}

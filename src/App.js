@@ -5,7 +5,9 @@ import { ChatBox } from "./components";
 const App = () => {
   return (
     <>
-      <ChatBox />
+      <section className="padding flexColCenter casing">
+        <ChatBox />
+      </section>
     </>
   );
 };
